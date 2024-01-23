@@ -1,0 +1,26 @@
+.footer {
+    width: 100%;
+    text-align: center;
+
+    table {
+        width: 100%;
+        text-align: center;
+        border-collapse: collapse;
+
+       
+        
+        thead,
+        td {
+            border-bottom: 1px solid #969696;
+            border-top: 1px solid #969696;
+            padding: 8px;
+            text-align: center;
+        }
+
+        thead {
+            background-color: transparent;
+        }
+    }
+
+
+}
